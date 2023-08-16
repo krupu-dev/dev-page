@@ -41,7 +41,8 @@
   color: #888;
 }
 
-.button {
+button {
   color: crimson;
   font-size: 28px;
+  background-color: blue;
 }
